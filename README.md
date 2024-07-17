@@ -25,12 +25,12 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service     | # of Users<sup>1</sup> | Link                                       | Stablity                                   | NSFW Ok?                    | Open Source?                                           | Owner(s)                   | Other Notes                                                                                                 |
 | ----------- | ---------- | ------------------------------------------ | ------------------------------------------ | --------------------------- | ------------------------------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 5097       | [D](https://discord.com/invite/Y4J6XXnmQ6) | High                                       | On /unf/, not /v1/          | ✅, [Here](https://github.com/zukixa/zukijourney-api) | @zukixa                    | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too.             |
-| [hentAI](https://api.hentaigpt.xyz)| 1024       | [D](https://discord.gg/hentai-zj-1127138833612427274) | High                                       | Only for premium users          | ✅, [Here](https://github.com/FreeGPT-AI/ht-api/) | @zukixa                    | ??             |
+| [hentAI](https://api.hentaigpt.xyz)| 1024       | [D](https://discord.gg/hentai-zj-1127138833612427274) | Mid                                       | Only for premium users          | ✅, [Here](https://github.com/FreeGPT-AI/ht-api/) | @zukixa                    | ??             |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 3091       | [D](https://discord.gg/JxRBXBhabu)         | High                                       | Forbidden                   | ❌                                                     | @zentixua                  | Honorary successor to ChimeraGPT, the largest API in history (15k users).                                   |
 | [WebRaftAI](https://api.webraft.in/dashboard)  | 1175        | [D](https://discord.gg/webraftai)          | High                                       | Forbidden                   | ❌                                                     | @ds_gamer                  | Largest AI API by model count. Provides dedicated hosting and many different services          |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | 1101 | [D](https://discord.gg/7W49ZfdsS2) | High | Enterprise-Tier and above | ❌  | @fredipy | DALL-E-3 access pioneering API. Also offers large-scale plans.
 | [KrakenAI](https://discord.gg/krakenai) | 558 | [D](https://discord.gg/krakenai) | High | Discouraged | ❌ | @paninico | It is an API of all time. |
-| [ShuttleAI  ](https://discord.gg/shuttleai) | 3654       | [D](https://discord.gg/shuttleai)          | Medium | Generally Permitted                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
+| [ShuttleAI](https://discord.gg/shuttleai) | 3654       | [D](https://discord.gg/shuttleai)          | Medium | Generally Permitted                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 430        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
 | [FresedGPT](https://discord.gg/JecEC5my4T)    | 281        | [D](https://discord.gg/JecEC5my4T)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
@@ -49,6 +49,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 |  llama-3, command-r-plus, mistral-large, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 | [FresedGPT](https://discord.gg/JecEC5my4T) | ~1000/day or 125/day            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
+| [GoldAI](https://discord.gg/JecEC5my4T) | ~?           | ✅       |✅          | ❌              |❌                 | ?| N/A                                              |
 
 
 ### Overview of APIs -- Image Models Sorted by Availability:
@@ -64,6 +65,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 |[FresedGPT](https://discord.gg/JecEC5my4T) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
+|[GoldAI]([https://discord.gg/JecEC5my4T](https://discord.gg/jmjU752nGb) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       | IDK
 
 
 
@@ -90,13 +92,13 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu) | Significantly higher limits, a more stable provider pool, actual GPT-4 with high limits (depending on account tier), Claude-3, Stable Diffusion 3, Midjourney, DALL-E 3, and much more | starting from $5, [check here](https://naga.ac/dashboard/models)
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | Unlimited DALL-E-3, up to 6000 GPT-4 requests/day, Claude-3 & Uncensored Models | [check here](https://ko-fi.com/mandrillai/tiers) |
 | [WebRaftAI](https://discord.gg/webraftai)| Higher credits, stablest + faster API with access to all exclusive models | [check here](https://www.patreon.com/Webraft) |
-
+| [GoldAI]([https://discord.gg/webraftai](https://discord.gg/jmjU752nGb))| Higher credits, more models?| [check here](https://discord.gg/jmjU752nGb) |
 
 > [!NOTE]  
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of April 2024.**
+> Data given without warranty of any kind. **As of July 2024.**
 
 **You are welcome to contribute to this list by opening a pull request!**
 
@@ -180,6 +182,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 |--------------|-----------------|
 | [mstai](https://mst.xyz/home) | SD Models         |
 | [aitubo](https://aitubo.ai/) | SD Models         |
+| [aitubo](https://sdxlturbo.ai) | Ideogram? Midjourney? SD3? CF-protected :<         |
 | [mage](https://www.mage.space/) | SD Models, but CF-protected :< | 
 | [outpainter](https://outpainter.app) | Outpainting functionality |
 | [picfinder](https://picfinder.ai/) | Mix of AI images and Google Image Search |
